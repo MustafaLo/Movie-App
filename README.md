@@ -4,4 +4,4 @@ A React application that allows users to search and archive their favorite movie
 # Setup
 Run:
 npm start
-// Now open your browser and visit: localhost:3000
+
