@@ -2,3 +2,6 @@
 A React application that allows users to search and archive their favorite movies using the OMDB API
 
 # Setup
+Run:
+npm start
+// Now open your browser and visit: localhost:3000
